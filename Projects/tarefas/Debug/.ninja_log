@@ -1,0 +1,18 @@
+# ninja log v5
+1	150	6395284376762063	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	d8ded209fba4dcd6
+10	334	6395284378480768	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/driverleds.o	3f0ef68ec74f798c
+157	487	6395284379730729	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	e90365b0a061cc5d
+354	659	6395284381449427	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/RTX_Config.o	b218486e91dfee6c
+514	845	6395284383324381	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	de1a98cf28c17d6a
+679	983	6395284384921972	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	e5db61302a54684e
+1004	1949	6395284394452931	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	3e8f85bde52f33a5
+1972	2177	6395284397265365	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	4ea2ea283b0a938f
+20	209	6395285208575827	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	de1a98cf28c17d6a
+227	563	6395285211544506	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	3e8f85bde52f33a5
+583	627	6395285213106941	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	4ea2ea283b0a938f
+2	218	6395285547288966	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	de1a98cf28c17d6a
+239	468	6395285549632630	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	3e8f85bde52f33a5
+495	537	6395285550766491	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	4ea2ea283b0a938f
+3	210	6395285998309555	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	de1a98cf28c17d6a
+234	487	6395286000809488	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	3e8f85bde52f33a5
+507	551	6395286001903183	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio5/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	4ea2ea283b0a938f
